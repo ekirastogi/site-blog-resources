@@ -1,0 +1,207 @@
+{
+    "topicsByTechnical": [
+        {
+            "id": 1, 
+            "name": "C", 
+            "image": null, 
+            "topicType": "TECHNICAL", 
+            "categories": [
+                {
+                    "id": 18, 
+                    "name": "Random"
+                }
+            ]
+        }, 
+        {
+            "id": 2, 
+            "name": "C++", 
+            "image": null, 
+            "topicType": "TECHNICAL", 
+            "categories": [
+                {
+                    "id": 19, 
+                    "name": "Random"
+                }
+            ]
+        }, 
+        {
+            "id": 3, 
+            "name": "Java", 
+            "image": null, 
+            "topicType": "TECHNICAL", 
+            "categories": [
+                {
+                    "id": 1, 
+                    "name": "Random"
+                }, 
+                {
+                    "id": 2, 
+                    "name": "Fundamentals"
+                }, 
+                {
+                    "id": 3, 
+                    "name": "Operators & Assignments"
+                }, 
+                {
+                    "id": 4, 
+                    "name": "Flow Control"
+                }, 
+                {
+                    "id": 5, 
+                    "name": "Exceptions"
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Assertions"
+                }, 
+                {
+                    "id": 7, 
+                    "name": "Collections"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Inner Classes"
+                }, 
+                {
+                    "id": 9, 
+                    "name": "Strings"
+                }, 
+                {
+                    "id": 10, 
+                    "name": "Threads"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Arrays"
+                }, 
+                {
+                    "id": 12, 
+                    "name": "Inheritence"
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Abstract Classes"
+                }, 
+                {
+                    "id": 14, 
+                    "name": "Functions"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Garbage Collection"
+                }, 
+                {
+                    "id": 16, 
+                    "name": "Declaration & Access Control"
+                }, 
+                {
+                    "id": 17, 
+                    "name": "Constructors"
+                }
+            ]
+        }, 
+        {
+            "id": 4, 
+            "name": "Database", 
+            "image": null, 
+            "topicType": "TECHNICAL", 
+            "categories": [
+                {
+                    "id": 20, 
+                    "name": "Random"
+                }
+            ]
+        }, 
+        {
+            "id": 5, 
+            "name": "Data Structure", 
+            "image": null, 
+            "topicType": "TECHNICAL", 
+            "categories": [
+                {
+                    "id": 21, 
+                    "name": "Random"
+                }
+            ]
+        }, 
+        {
+            "id": 6, 
+            "name": "Spring", 
+            "image": null, 
+            "topicType": "TECHNICAL", 
+            "categories": [
+                {
+                    "id": 22, 
+                    "name": "Random"
+                }
+            ]
+        }
+    ], 
+    "topicsByAptitude": [
+        {
+            "id": 7, 
+            "name": "Quantitative Aptitude", 
+            "image": null, 
+            "topicType": "APTITUDE", 
+            "categories": [ ]
+        }, 
+        {
+            "id": 8, 
+            "name": "Data Interpretation", 
+            "image": null, 
+            "topicType": "APTITUDE", 
+            "categories": [ ]
+        }, 
+        {
+            "id": 9, 
+            "name": "Logical Reasoning", 
+            "image": null, 
+            "topicType": "APTITUDE", 
+            "categories": [ ]
+        }, 
+        {
+            "id": 10, 
+            "name": "Reading Comprehension", 
+            "image": null, 
+            "topicType": "APTITUDE", 
+            "categories": [ ]
+        }, 
+        {
+            "id": 11, 
+            "name": "Verbal Ability", 
+            "image": null, 
+            "topicType": "APTITUDE", 
+            "categories": [ ]
+        }
+    ], 
+    "topicsByProgramming": [
+        {
+            "id": 12, 
+            "name": "Java", 
+            "image": null, 
+            "topicType": "PROGRAMMING", 
+            "categories": [
+                {
+                    "id": 23, 
+                    "name": "Pattern Printing"
+                }, 
+                {
+                    "id": 24, 
+                    "name": "Numbers"
+                }, 
+                {
+                    "id": 25, 
+                    "name": "Strings"
+                }, 
+                {
+                    "id": 26, 
+                    "name": "Files"
+                }, 
+                {
+                    "id": 27, 
+                    "name": "Recursion"
+                }
+            ]
+        }
+    ]
+}
