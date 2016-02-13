@@ -1,0 +1,92 @@
+html { height: 100%; }
+
+body {
+  margin: 0px;
+  height: 100%;
+  text-align: center;
+  color: #000000;
+  background: #777777;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  font-size: 14px;  
+}
+
+#main {  
+  margin: 0 auto 0 auto;
+  top: 25px;
+  width: 1000px;
+  background: #FFFFFF;
+  overflow: visible;
+  text-align: center;
+  border-left: 3px solid #555555;
+  border-right: 3px solid #555555;  
+}
+
+#intro {
+  margin: 0 auto 10 auto;
+  width: 90%;
+  text-align: left;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  font-size: 16px;    
+}
+
+#inputform {  
+  margin: 0 auto 10 auto;
+  width: 90%;
+  text-align: left;
+}
+
+.optionTable {
+  margin: 0 0 3 0;
+  width: 100%;
+  text-align: left;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  font-size: 14px;  
+}
+
+.booleanField {
+  font-family: Verdana,Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #291C02;
+  text-decoration: none;
+  height: 20px;
+  width: 60px;
+  border-top: 1px solid #404040;
+  border-right: 1px solid #DDC7BA;
+  border-bottom: 1px solid #DDC7BA;
+  border-left: 1px solid #404040;
+}
+
+.headerField {
+  font-family: Verdana,Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #291C02;
+  text-decoration: none;
+  height: 20px;
+  width: 695px;
+  border-top: 1px solid #404040;
+  border-right: 1px solid #DDC7BA;
+  border-bottom: 1px solid #DDC7BA;
+  border-left: 1px solid #404040;
+}
+
+.textBox {
+  width: 900px;
+  height: 300px;
+  spacing: 0;
+  padding: 0;
+  text-align: left;
+  border: 1px solid #333333;
+  background: #FFFFFF;
+}
+
+#outputform {
+  margin: 0 auto 0 auto;
+  width: 90%;
+  text-align: left;
+}
+
+#preview {
+  margin: 0 auto 0 auto;
+  width: 90%;
+  text-align: left;
+}
