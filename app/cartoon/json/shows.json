@@ -1,22 +1,20 @@
 {
-    "videos": [
+    "shows": [
         {
             "id": 1, 
             "title": "Duck Tales", 
             "description": "", 
-            "duration": 1, 
             "image": "http://resources.ekiras.com/app/cartoon/images/duckTales.png", 
-            "isWatched": false, 
-            "videoType": "YOUTUBE"
+            "isSubscribed": false, 
+            "videoCount": 0
         }, 
         {
             "id": 2, 
             "title": "Talespin", 
             "description": "", 
-            "duration": 1, 
             "image": "http://resources.ekiras.com/app/cartoon/images/talespin.png", 
-            "isWatched": false, 
-            "videoType": "YOUTUBE"
+            "isSubscribed": false, 
+            "videoCount": 0
         }
     ]
 }
