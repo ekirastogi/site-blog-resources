@@ -1,20 +1,46 @@
 {
-    "shows": [
-        {
-            "id": 1, 
-            "title": "Duck Tales", 
-            "description": "", 
-            "image": "http://resources.ekiras.com/app/cartoon/images/duckTales.png", 
-            "isSubscribed": false, 
-            "videoCount": 0
-        }, 
-        {
-            "id": 2, 
-            "title": "Talespin", 
-            "description": "", 
-            "image": "http://resources.ekiras.com/app/cartoon/images/talespin.png", 
-            "isSubscribed": false, 
-            "videoCount": 0
-        }
-    ]
+shows: [
+{
+description: "DuckTales is based on Uncle Scrooge and other Duck universe comic books, created by Carl Barks. The show follows the adventures of Scrooge McDuck and his three grandnephews, Huey, Dewey, and Louie.",
+id: 1,
+image: "http://resources.ekiras.com/app/cartoon/images/duckTales.png",
+title: "DuckTales",
+videoCount: 0
+},
+{
+description: "Catch the adventures of Baloo and Kit",
+id: 2,
+image: "http://resources.ekiras.com/app/cartoon/images/talespin.png",
+title: "TaleSpin",
+videoCount: 0
+},
+{
+description: "Catch the adventures of Timon and Pumbaa",
+id: 3,
+image: "http://resources.ekiras.com/app/cartoon/images/timonPumba.png",
+title: "Timon & Pumbaa",
+videoCount: 0
+},
+{
+description: "Tom and Jerry",
+id: 4,
+image: "http://resources.ekiras.com/app/cartoon/images/tomAndJerry.png",
+title: "Tom & Jerry",
+videoCount: 0
+},
+{
+description: "NA",
+id: 5,
+image: "http://resources.ekiras.com/app/cartoon/images/popeye.png",
+title: "Popeye",
+videoCount: 0
+},
+{
+description: "NA",
+id: 6,
+image: "http://resources.ekiras.com/app/cartoon/images/johnyBravo.png",
+title: "Johnny Bravo",
+videoCount: 0
+}
+]
 }
