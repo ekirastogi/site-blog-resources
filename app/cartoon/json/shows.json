@@ -1,21 +1,21 @@
 {
     "shows": [
         {
-            "description": "DuckTales is based on Uncle Scrooge and other Duck universe comic books, created by Carl Barks. The show follows the adventures of Scrooge McDuck and his three grandnephews, Huey, Dewey, and Louie.", 
+            "description": "NA", 
             "id": 1, 
             "image": "http://resources.ekiras.com/app/cartoon/images/duckTales.png", 
             "title": "DuckTales", 
             "videoCount": 0
         }, 
         {
-            "description": "Catch the adventures of Baloo and Kit", 
+            "description": "NA", 
             "id": 2, 
             "image": "http://resources.ekiras.com/app/cartoon/images/talespin.png", 
             "title": "TaleSpin", 
             "videoCount": 0
         }, 
         {
-            "description": "Catch the adventures of Timon and Pumbaa", 
+            "description": "na", 
             "id": 3, 
             "image": "http://resources.ekiras.com/app/cartoon/images/timonPumba.png", 
             "title": "Timon & Pumbaa", 
@@ -32,7 +32,7 @@
             "description": "NA", 
             "id": 5, 
             "image": "http://resources.ekiras.com/app/cartoon/images/popeye.png", 
-            "title": "Popeye", 
+            "title": "Popeye the Sailor Man", 
             "videoCount": 0
         }, 
         {
@@ -40,6 +40,13 @@
             "id": 6, 
             "image": "http://resources.ekiras.com/app/cartoon/images/johnyBravo.png", 
             "title": "Johnny Bravo", 
+            "videoCount": 0
+        }, 
+        {
+            "description": "NA", 
+            "id": 7, 
+            "image": "http://resources.ekiras.com/app/cartoon/images/powerpuffGirls.png", 
+            "title": "Powerpuff Girls", 
             "videoCount": 0
         }
     ]
