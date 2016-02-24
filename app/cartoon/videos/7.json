@@ -1,0 +1,13 @@
+{
+    "videos": [
+        {
+            "id": "bwxInlEaNW0", 
+            "title": "Duck tales", 
+            "description": "Powerpuff Girls Boy Toys", 
+            "duration": 653000, 
+            "image": "https://i.ytimg.com/vi/bwxInlEaNW0/mqdefault.jpg", 
+            "isWatched": false, 
+            "videoType": "YOUTUBE"
+        }
+    ]
+}
