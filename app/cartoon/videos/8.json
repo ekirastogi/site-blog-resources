@@ -4,7 +4,7 @@
             "description": "NA", 
             "duration": 445000, 
             "id": "3", 
-            "image": "445000", 
+            "image": "https://i.ytimg.com/vi/wFAhCYSiVvY/mqdefault.jpg", 
             "isWatched": false, 
             "title": "Aao Sikhe Chawal Kaise Banate Hai", 
             "videoType": "YOUTUBE"
@@ -13,7 +13,7 @@
             "description": "NA", 
             "duration": 537000, 
             "id": "4", 
-            "image": "537000", 
+            "image": "https://i.ytimg.com/vi/D3t4jIuZiGI/mqdefault.jpg", 
             "isWatched": false, 
             "title": "Dad Ladki Ban Gaye", 
             "videoType": "YOUTUBE"
@@ -22,7 +22,7 @@
             "description": "NA", 
             "duration": 667000, 
             "id": "5", 
-            "image": "667000", 
+            "image": "https://i.ytimg.com/vi/2HaXzGJTbJQ/mqdefault.jpg", 
             "isWatched": false, 
             "title": "MAM Pata Nai Kya Karti Hai", 
             "videoType": "YOUTUBE"

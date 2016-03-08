@@ -4,7 +4,7 @@
             "description": "Powerpuff Girls - Bubble Boy", 
             "duration": 649000, 
             "id": "1", 
-            "image": "649000", 
+            "image": "https://i.ytimg.com/vi/mFqQ2sNopPM/mqdefault.jpg", 
             "isWatched": false, 
             "title": "Bubble Boy", 
             "videoType": "YOUTUBE"
@@ -13,7 +13,7 @@
             "description": "Powerpuff Girls Boy Toys", 
             "duration": 653000, 
             "id": "2", 
-            "image": "653000", 
+            "image": "https://i.ytimg.com/vi/bwxInlEaNW0/mqdefault.jpg", 
             "isWatched": false, 
             "title": "Powerpuff Girls Boy Toys", 
             "videoType": "YOUTUBE"
