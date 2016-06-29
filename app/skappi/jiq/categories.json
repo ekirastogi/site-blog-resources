@@ -1,0 +1,80 @@
+{
+      "id": "57572e8f8750011265ac9c28",
+      "name": "Java",
+      "topicType": "TECHNICAL",
+      "categories": [
+        {
+          "id": "57572e8f8750011265ac9c29",
+          "name": "Random"
+        },
+        {
+          "id": "57572f2f8750011265ac9c3a",
+          "name": "Fundamentals"
+        },
+        {
+          "id": "57572f378750011265ac9c3b",
+          "name": "Operators & Assignments"
+        },
+        {
+          "id": "57572f438750011265ac9c3c",
+          "name": "Flow Control"
+        },
+        {
+          "id": "57572f498750011265ac9c3d",
+          "name": "Exceptions"
+        },
+        {
+          "id": "57572f518750011265ac9c3e",
+          "name": "Assertions"
+        },
+        {
+          "id": "57572f5b8750011265ac9c3f",
+          "name": "Collections"
+        },
+        {
+          "id": "57572f648750011265ac9c40",
+          "name": "Inner Classes"
+        },
+        {
+          "id": "57572f6b8750011265ac9c41",
+          "name": "Strings"
+        },
+        {
+          "id": "57572f718750011265ac9c42",
+          "name": "Threads"
+        },
+        {
+          "id": "57572f778750011265ac9c43",
+          "name": "Arrays"
+        },
+        {
+          "id": "57572f7d8750011265ac9c44",
+          "name": "Inheritence"
+        },
+        {
+          "id": "57572f858750011265ac9c45",
+          "name": "Abstract Classes"
+        },
+        {
+          "id": "57572f8f8750011265ac9c46",
+          "name": "Functions"
+        },
+        {
+          "id": "57572f978750011265ac9c47",
+          "name": "Garbage Collection"
+        },
+        {
+          "id": "57572fa28750011265ac9c48",
+          "name": "Declaration & Access Control"
+        },
+        {
+          "id": "57572fa98750011265ac9c49",
+          "name": "Constructors"
+        },
+        {
+          "id": "57576bcf8750d0c3a575cf8b",
+          "name": "Classes"
+        }
+      ],
+      "isActive": true
+    }
