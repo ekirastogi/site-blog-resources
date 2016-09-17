@@ -480,7 +480,6 @@ span.CodeMirror-selectedtext { background: none; }
       font-size: 0.94em; /* 0.94 = 0.88 + (1.00 - 0.88) / 2 */
       border-radius:3px;
       background-color: #F8F8F8;
-      border: 1px solid #CCC;
       margin: 10px 0 10px 0px;
     }
     pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; padding: 15px 0px 10px 5px;border: 0px;}
