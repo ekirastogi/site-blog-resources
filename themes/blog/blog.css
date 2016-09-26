@@ -1,3 +1,7 @@
+/* Basic Style*/
+* { margin:0; padding:0;}
+html, body { height: 100%; }
+
 body {
   background: @beige;
   color: black;
@@ -50,11 +54,13 @@ code {
 
 .box {
   display: table-cell;
+      padding: 5px;
 }
 
 
 .sidebar {
-  background: @orange;
+  background: orange;
+  padding : 2px;
 }
 
 .sidebar.leftbar{
@@ -71,17 +77,8 @@ code {
   color: @beige;
 }
 
-/*====== Ignore section below ======*/
-
-@orange: #BD4932;
-@yellow: #FFD34E;
-@green: #105B63;
-@beige: #FFFAD5;
 
 
-/* Basic Style*/
-* { margin:0; padding:0;}
-html, body { height: 100%; }
-button { padding: 5px 10px;position:fixed;bottom: 50px;right:0px;left:0px;margin:auto; width: 200px; display: block; -webkit-appearance: none;background: @orange; outline: none;  border: 2px solid #DB9E36; color: @yellow; border-radius: 10px; box-shadow: 0 2px 3px rgba(0,0,0,0.5);cursor: pointer;}
-button:active {border-color: @beige; color:@beige;}
+
+
 
