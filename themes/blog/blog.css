@@ -52,9 +52,16 @@ code {
   display: table-cell;
 }
 
+
 .sidebar {
-  width: 350px;
   background: @orange;
+}
+
+.sidebar.leftbar{
+  width: 200px;
+}
+.sidebar.rightbar{
+  width: 350px;
 }
 
 .footer {
