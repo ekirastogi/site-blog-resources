@@ -72,6 +72,7 @@ code {
 
 .sidebar {
   padding : 2px;
+	background : #fff;
 }
 
 .sidebar.leftbar{
@@ -79,7 +80,6 @@ code {
 }
 .sidebar.rightbar{
   width: 350px;
-	background : #fff;
 }
 
 .footer {
