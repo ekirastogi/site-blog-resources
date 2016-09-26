@@ -12,13 +12,14 @@ body {
 }
 li+li {margin-top: 0.25em;}
 
-.panel-default>.panel-heading {
-    color: #333;
-    background-color: #fefefe;
-    border-color: #ddd;
+.panel-default>.panel-heading.title {
+    color: #7a7a7a;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
     font-size: 1.75em;
     line-height: 2.75em;
     text-align: center;
+	
 }
 
 .wrapper {
