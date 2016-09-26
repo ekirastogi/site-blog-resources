@@ -12,6 +12,15 @@ body {
 }
 li+li {margin-top: 0.25em;}
 
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #fefefe;
+    border-color: #ddd;
+    font-size: 1.75em;
+    line-height: 2.75em;
+    text-align: center;
+}
+
 .wrapper {
   height: 100%;
   display: table;
