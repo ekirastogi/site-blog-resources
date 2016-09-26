@@ -11,11 +11,13 @@ body {
     word-wrap: break-word;
 }
 li+li {margin-top: 0.25em;}
-
+.panel{
+border : 0px;
+}
 .panel-default>.panel-heading.title {
     color: #7a7a7a;
-    background-color: #f5f5f5;
-    border: 1px solid #e3e3e3;
+    background-color: #fff;
+    border-bottom: 1px solid #e3e3e3;
     font-size: 1.75em;
     line-height: 2.75em;
     text-align: center;
@@ -64,7 +66,7 @@ code {
 
 .box {
   display: table-cell;
-      padding: 5px;
+      padding: 15px;
 }
 
 
@@ -73,10 +75,11 @@ code {
 }
 
 .sidebar.leftbar{
-  width: 200px;
+  width: 245px;
 }
 .sidebar.rightbar{
   width: 350px;
+	background : #fff;
 }
 
 .footer {
