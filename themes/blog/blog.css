@@ -1,0 +1,80 @@
+body {
+  background: @beige;
+  color: black;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    line-height: 1.5;
+    word-wrap: break-word;
+}
+li+li {margin-top: 0.25em;}
+
+.wrapper {
+  height: 100%;
+  display: table;
+  width: 100%;
+}
+
+.navbar-header .navbar-brand {
+	color: #fff;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 500;
+	letter-spacing: 2px;
+}
+
+.navbar-header .navbar-brand span {
+	color: #30a5ff;
+}
+
+.header {
+  display: table-row;
+  height: 50px;
+  background: ;
+}
+code {
+    padding: 0 !important;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    margin: 0 !important;
+    font-size: 85% !important;
+    background-color: rgba(0,0,0,0.04) !important;
+    border-radius: 3px !important;
+   color : #A00;
+}
+
+.main {
+  height: 100%;
+  display: table;
+  width: 100%;
+}
+
+.box {
+  display: table-cell;
+}
+
+.sidebar {
+  width: 350px;
+  background: @orange;
+}
+
+.footer {
+  display: table-row;
+  height:50px;
+  background: @green;
+  color: @beige;
+}
+
+/*====== Ignore section below ======*/
+
+@orange: #BD4932;
+@yellow: #FFD34E;
+@green: #105B63;
+@beige: #FFFAD5;
+
+
+/* Basic Style*/
+* { margin:0; padding:0;}
+html, body { height: 100%; }
+button { padding: 5px 10px;position:fixed;bottom: 50px;right:0px;left:0px;margin:auto; width: 200px; display: block; -webkit-appearance: none;background: @orange; outline: none;  border: 2px solid #DB9E36; color: @yellow; border-radius: 10px; box-shadow: 0 2px 3px rgba(0,0,0,0.5);cursor: pointer;}
+button:active {border-color: @beige; color:@beige;}
+
