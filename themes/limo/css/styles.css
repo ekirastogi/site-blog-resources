@@ -300,6 +300,7 @@ a.bg-danger:hover {
 	min-height: 66px;
 	height : 100%;
 	line-height: 45px;
+	text-align: center;
 }
 
 .panel-default .panel-heading {
