@@ -73,8 +73,10 @@ code {
 .footer {
   display: table-row;
   height:50px;
-  background: @green;
-  color: @beige;
+   background: #272626;
+    color: #fff;
+    font-size: 12px;
+    padding: 15px 0;
 }
 
 
