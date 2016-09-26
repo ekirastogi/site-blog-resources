@@ -297,7 +297,8 @@ a.bg-danger:hover {
 	font-size: 18px;
 	font-weight: 300;
 	letter-spacing: 0.025em;
-	height: 66px;
+	min-height: 66px;
+	height : 100%;
 	line-height: 45px;
 }
 
