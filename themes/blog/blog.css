@@ -98,11 +98,10 @@ code {
 .download {
     padding: 30px 85px;
     border-left: 5px solid #98B198;
-    background: url(http://1.bp.blogspot.com/-hD9NcRyEtvA/VH7icaR59pI/AAAAAAAAADY/JXuvPE5Z8Q4/s1600/download.png) no-repeat 20px 15px #DFF7DF;
+    background: url("http://1.bp.blogspot.com/-hD9NcRyEtvA/VH7icaR59pI/AAAAAAAAADY/JXuvPE5Z8Q4/s1600/download.png") no-repeat 20px 15px #DFF7DF;
 
 
-
-/* Toggle Styles */
+}
 
 #wrapper {
     padding-left: 0;
