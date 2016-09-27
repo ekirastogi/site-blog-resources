@@ -230,7 +230,7 @@ code {
 .rightbar {
     width: 310px;
     background: #fff;
-    position: fixed;
+    position: absolute;
     top: 50px;
     height: 100%;
     right: 0px;
