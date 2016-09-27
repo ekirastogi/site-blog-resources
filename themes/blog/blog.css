@@ -124,7 +124,7 @@ code {
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
-    background: #000;
+    background: #f1f4f7;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -150,7 +150,7 @@ code {
 
 .sidebar-nav {
     top: 0;
-    width: 250px;
+    width: 310px;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -229,7 +229,7 @@ code {
 
 .rightbar-wrapper {
     width: 310px;
-    background: #5f6468;
+    background: #f1f4f7;
     position: absolute;
     top: 50px;
     height: 100%;
@@ -238,7 +238,7 @@ code {
 }
 .rightbar {
 	background : #fff;
-	padding: 30px 5px 10px 5px;
+	margin: 35px 3px 10px 3px;
 	
 }
 @media(max-width:600px) {
