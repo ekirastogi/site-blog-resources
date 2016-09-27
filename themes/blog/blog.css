@@ -115,7 +115,9 @@ code {
 #wrapper.toggled {
     padding-left: 250px;
 }
-
+.inner{
+ background : #fff;
+}
 #sidebar-wrapper {
     z-index: 1000;
     position: fixed;
@@ -123,6 +125,7 @@ code {
     width: 0;
     height: 100%;
     margin-left: -250px;
+    margin-top: 10px;
     overflow-y: auto;
     background: #f1f4f7;
     -webkit-transition: all 0.5s ease;
@@ -238,7 +241,7 @@ code {
 }
 .rightbar {
 	background : #fff;
-	margin: 35px 3px 10px 3px;
+	margin: 10px 3px 10px 3px;
 	
 }
 @media(max-width:600px) {
