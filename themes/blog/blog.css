@@ -18,8 +18,8 @@ border : 0px;
 }
 .panel-default>.panel-heading.title {
     color: #7a7a7a;
-    background-color: #fff;
-    border-bottom: 1px solid #e3e3e3;
+    background-color: #f5f5f5;
+    border-bottom: 5px solid #e3e3e3;
     font-size: 1.75em;
     text-align: center;
 	padding :30px 10px 30px 10px;
