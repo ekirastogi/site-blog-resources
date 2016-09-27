@@ -227,17 +227,22 @@ code {
 
 }
 
-.rightbar {
+.rightbar-wrapper {
     width: 310px;
-    background: #fff;
+    background: #5f6468;
     position: absolute;
     top: 50px;
     height: 100%;
     right: 0px;
     z-index : 1000;
 }
+.rightbar {
+	background : #fff;
+	padding: 30px 5px 10px 5px;
+	
+}
 @media(max-width:600px) {
-	.rightbar {
+   .rightbar-wrapper{
 	display : none;
-	}
+    }
 }
