@@ -149,7 +149,6 @@ code {
 /* Sidebar Styles */
 
 .sidebar-nav {
-    position: absolute;
     top: 0;
     width: 250px;
     margin: 0;
@@ -225,11 +224,20 @@ code {
 .navbar-toggle{
 	display : block;
 	}
+
+}
+
 .rightbar {
-	width: 310px;
+    width: 310px;
     background: #fff;
     position: fixed;
     top: 50px;
     height: 100%;
     right: 0px;
+    z-index : 1000;
+}
+@media(max-width:600px) {
+	.rightbar {
+	display : none;
 	}
+}
