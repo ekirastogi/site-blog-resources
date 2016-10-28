@@ -471,7 +471,7 @@ span.CodeMirror-selectedtext { background: none; }
     .markdown h5{ font-size:1em; }
     .markdown h6{ font-size:0.9em; }
 
-    .markdown blockquote{color:#666666;margin:0;padding-left: 3em;border-left: 0.5em #EEE solid;}
+    .markdown blockquote{margin:0;padding-left: 3em;background: #e1f4fc;border:0px;border-left: 0.5em solid #b7e5ff;color: #0889d0;}
     .markdown hr { display: block; height: 2px; border: 0; border-top: 1px solid #aaa;border-bottom: 1px solid #eee; margin: 1em 0; padding: 0; }
 
     pre, code{
