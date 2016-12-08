@@ -30,7 +30,7 @@ low{-webkit-transition: all 0.30s ease-in-out;-moz-transition: all 0.30s ease-in
 /* ---------------- HEADER CSS STARTS --------------------------  */
 
 
-.logo{cursor:pointer ;text-decoration: none;color: #ffffff;line-height: 100px;height: 100px;font-size: 38px;font-weight: 700;text-shadow: 0px 1px 1px rgba(255,255,255,.3), 0px -1px 0px rgba(0,0,0,.7);margin: 0px 15px;padding-left: 70px;padding-right: 10px;float: left;background: url('http://2.bp.blogspot.com/-twEHazZttYc/VD2BhfJz5hI/AAAAAAAAAJ8/r309O_79rTM/s320/ekiras.PNG') no-repeat 0px 15px; }
+.logo{cursor:pointer ;text-decoration: none;color: #ffffff;line-height: 100px;height: 100px;font-size: 38px;font-weight: 700;text-shadow: 0px 1px 1px rgba(255,255,255,.3), 0px -1px 0px rgba(0,0,0,.7);margin: 0px 10px;padding-left: 70px;padding-right: 10px;float: left;background: url('http://2.bp.blogspot.com/-twEHazZttYc/VD2BhfJz5hI/AAAAAAAAAJ8/r309O_79rTM/s320/ekiras.PNG') no-repeat 0px 15px; }
 .logo:hover{color: #3aa9d2;text-decoration: none;}
 .logo-container{width:230px;float:left;}
 .header{background: url('http://4.bp.blogspot.com/-ZrDs89GtGyI/U-oBEQdsenI/AAAAAAAAAF8/utobmA3rKl8/s1600/black-tiles.jpg') #3aa9d2; height: 100px;padding-top: 5px;overflow: hidden;}
