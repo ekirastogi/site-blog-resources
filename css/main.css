@@ -228,3 +228,5 @@ low{-webkit-transition: all 0.30s ease-in-out;-moz-transition: all 0.30s ease-in
 .panel{border-radius:0px !important;}
 .well{border-radius:0px !important;}
 pre{border-radius:0px !important;}
+
+.note{background : #d9edf7; border-left: 5px solid #519ec4;padding : 10px;}
